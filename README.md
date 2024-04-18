@@ -10,3 +10,9 @@ Currently, two official plugins are available:
 --------
 
 Deployed at :- https://99-acres-gilt.vercel.app/
+
+--------
+
+Preview :-
+
+![Screenshot 2024-04-18 235814](https://github.com/geetansh-fgu/99_Acres/assets/123066928/251f57e3-fb57-4bcb-a424-c701be5cd4cc)
